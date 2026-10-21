@@ -1,11 +1,11 @@
 {
   "name": "winuzacasino.org.uk",
   "site_name": "Winuza Casino: Bonus Up to £5000 + 500 FS",
-  "html_head": "<meta name=\"google-site-verification\" content=\"SEDlPLmtQA2ZP0PmD9BNEHSXjCxQhqTZIE2a7ud47es\" />\n<link rel=\"canonical\" href=\"https://winuzacasino.org.uk/\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Winuza Casino: Bonus Up to £5000 + 500 FS\">\n<meta property=\"og:description\" content=\"Explore 8,200+ games at Winuza Casino, unlock a five-stage welcome package and discover 45 VIP levels with cashback up to 19%\">\n<meta property=\"og:url\" content=\"https://winuzacasino.org.uk/\">\n<meta property=\"og:site_name\" content= \"Winuza Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"Winuza Casino: Bonus Up to £5000 + 500 FS\">\n<meta name=\"twitter:description\" content=\"Explore 8,200+ games at Winuza Casino, unlock a five-stage welcome package and discover 45 VIP levels with cashback up to 19%\">\n",
+  "html_head": "<meta name=\"google-site-verification\" content=\"c1KhRHy6POzYwCbUvGPY67x4u_kbjYfov8tASlJIC70\" />\n<link rel=\"canonical\" href=\"https://winuzacasino.org.uk/\">\n<meta property=\"og:locale\" content=\"en_GB\">\n<meta property=\"og:type\" content=\"website\">\n<meta property=\"og:title\" content=\"Winuza Casino: Bonus Up to £5000 + 500 FS\">\n<meta property=\"og:description\" content=\"Explore 8,200+ games at Winuza Casino, unlock a five-stage welcome package and discover 45 VIP levels with cashback up to 19%\">\n<meta property=\"og:url\" content=\"https://winuzacasino.org.uk/\">\n<meta property=\"og:site_name\" content= \"Winuza Casino\">\n<meta name=\"twitter:card\" content=\"summary_large_image\">\n<meta name=\"twitter:title\" content=\"Winuza Casino: Bonus Up to £5000 + 500 FS\">\n<meta name=\"twitter:description\" content=\"Explore 8,200+ games at Winuza Casino, unlock a five-stage welcome package and discover 45 VIP levels with cashback up to 19%\">\n",
   "url": "winuzacasino.org.uk",
   "template": "tupchiy",
   "language_code": "en-GB",
-  "allow_indexing": false,
+  "allow_indexing": true,
   "redirect_404s_to_homepage": true,
   "use_www_version": false,
   "breadcrumbs": true,
@@ -82,7 +82,7 @@
   "button_background": "#bb711f",
   "button_text_color": "#eef1f6",
   "text_color": "#e9e9e9",
-  "color_highlight_text": "#13131b",
+  "color_highlight_text": "#ad5c00",
   "color_main_btn_text": "#ebebef",
   "cta_background": "#bb711f",
   "logo": {
@@ -250,8 +250,8 @@
       "question": "Can I use Winuza Casino on my smartphone without installing the app?"
     }
   ],
-  "_generated_at": "2026-10-21T14:09:01.388Z",
+  "_generated_at": "2026-10-21T14:12:56.465Z",
   "_version": "1.0.0",
-  "_last_deploy": "2026-10-21T14:09:02.313Z",
-  "_deploy_trigger": "tij9m"
+  "_last_deploy": "2026-10-21T14:12:57.240Z",
+  "_deploy_trigger": "fgwxnb"
 }
